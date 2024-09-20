@@ -1,0 +1,22 @@
+.nav-item{
+    color: white;
+}
+.header-nav-one a{
+    text-decoration: none;
+    color: white;
+}
+.header-nav-one a:hover{
+    color: orangered;
+    transition: 0.7s;
+
+}
+.navbar-toggler{
+    border: 0px;
+}
+    @media screen and (max-width:400px) {
+
+       .head-tittle{
+        font-size: small;
+
+        }
+    }
